@@ -15,7 +15,7 @@ def main():
             with open(body) as f:
                 body = f.read()
         # Write the complete page
-            filename = "Generated web pages/{}.html".format(c)
+            filename = "docs/{}.html".format(c)
             page = alphabettemplate.format(filename=filename, body=body)
             with open(filename, "w") as f:
                 f.write(page)
