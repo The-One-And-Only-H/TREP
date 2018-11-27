@@ -9,3 +9,10 @@ Alongside my various studies at the time, I came across Python and felt compelle
 
 This project is currently a WIP, but you can view it here: https://the-one-and-only-h.github.io/TREP/
 
+Tech stack:
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- Python
+
